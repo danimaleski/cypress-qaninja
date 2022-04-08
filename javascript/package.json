@@ -1,0 +1,25 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Rodando o Javascript no servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danimaleski/cypress-qaninja.git"
+  },
+  "author": "Daniella Maleski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danimaleski/cypress-qaninja/issues"
+  },
+  "homepage": "https://github.com/danimaleski/cypress-qaninja#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

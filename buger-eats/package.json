@@ -1,0 +1,23 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação do app BugerEats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danimaleski/cypress-qaninja.git"
+  },
+  "author": "Daniella Maleski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danimaleski/cypress-qaninja/issues"
+  },
+  "homepage": "https://github.com/danimaleski/cypress-qaninja#readme",
+  "devDependencies": {
+    "cypress": "^9.5.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}

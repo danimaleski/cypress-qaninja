@@ -1,0 +1,22 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "Primeiro exemplo com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danimaleski/cypress-qaninja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danimaleski/cypress-qaninja/issues"
+  },
+  "homepage": "https://github.com/danimaleski/cypress-qaninja#readme",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
